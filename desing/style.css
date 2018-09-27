@@ -1,0 +1,58 @@
+body{
+	background: url(img/bg.jpg) center no-repeat fixed;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+.bg{
+	background: rgba(0, 0, 0, 0.2);
+	overflow: auto;
+	width: 100%;
+	height: 100vh;
+}
+
+.frm-view{
+	background: rgba(73, 91, 132, 0.5);
+	color: #fff;
+	padding: 3rem;
+	margin-top: 1rem;
+}
+
+.frm-view input{
+	background: rgba(255, 255, 255, 0.7);
+}
+
+.title{
+	font-weight: bold;
+	font-family: cursive;
+	font-size: 20px;
+	text-align: center;
+	padding: 1rem;
+	color: #fff;
+	background: rgba(33, 33, 33, 0.6);
+}
+
+.weather{
+	background: rgba(30, 30, 200, 0.2);
+	font-size: 20px;
+	text-align: center;
+	padding: 3rem;
+	margin-top: 1rem;
+}
+
+.rght{
+	font-weight: bold;
+	font-family: monospace;
+	font-size: 24px;
+}
+
+.celsiy{
+	font-size: 16px;
+	color: yellow;
+}
+
+.numbers{
+	font-weight: bold;
+	font-size: 20px;
+}
